@@ -244,6 +244,12 @@ footer ul{
     justify-content: space-between;
     align-items: center;
 }
+footer p {
+    text-align: center;
+}
+footer a{
+    text-decoration: underline;
+}
 button:focus {
     background: #2c3f57;
     outline-style: solid;
